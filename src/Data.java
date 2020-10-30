@@ -27,4 +27,7 @@ public class Data {
         System.out.print("}");
     }
 
+    public String[] getRandomDrengeNavne() {
+        return randomDrengeNavne;
+    }
 }
