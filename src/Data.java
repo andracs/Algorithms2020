@@ -30,4 +30,8 @@ public class Data {
     public String[] getRandomDrengeNavne() {
         return randomDrengeNavne;
     }
+
+    public String[] getRandomPigeNavne() {
+        return randomPigeNavne;
+    }
 }

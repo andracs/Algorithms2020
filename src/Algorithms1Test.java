@@ -7,7 +7,15 @@ class Algorithms1Test {
     @Test
     void randomBoyName() {
         Algorithms1 a = new Algorithms1();
-        a.rand.setSeed(18);
-        assertEquals("Cello", a.randomBoyName());
+        a.rand.setSeed(5);
+        assertEquals("Klausbjerke", a.randomBoyName());
     }
+
+    @Test
+    void randomGirlName() {
+        Algorithms1 a = new Algorithms1();
+        a.rand.setSeed(10);
+        assertEquals("Glød", a.randomGirlName());
+    }
+
 }
