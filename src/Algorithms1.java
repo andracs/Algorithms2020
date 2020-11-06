@@ -38,7 +38,9 @@ public class Algorithms1 {
         names = new Data().getRandomPigeNavne();
         return names[rand.nextInt(names.length)];
     }
-    // TODO 5 - Skriv en randomName() metode i Algorithms1, som laver et sammenlagt array som indeholder både piger og drenge, og returnerer det
+    // TODO 5 - Skriv en randomName() metode i Algorithms1, som laver et sammenlagt array som indeholder både piger og drenge, og returnerer et navn fra det
+
+    
 
     // TODO 6 - Skriv en test til randomName() metoden
 
