@@ -1,5 +1,5 @@
 # Algorithms2020
-Se opgaverne i Algorithms1.
+Se opgaverne i Algorithms1. Se løsninger i "Løsninger" branch
 
 God arbejdslyst :)
 
